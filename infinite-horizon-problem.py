@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 def calculate_reward_to_risk_ratio(package):
     """
     Calculate the reward-to-risk ratio for a package.
@@ -62,10 +56,3 @@ if __name__ == "__main__":
         print("No package satisfies the condition for infinite horizon delivery.")
 
     print(f"Expected Reward per Epoch: {expected_reward:.2f}")
-
-
-# In[ ]:
-
-
-
-
