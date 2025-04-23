@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import numpy as np
 
 def calculate_reward_to_risk_ratio(package):
@@ -78,10 +72,3 @@ if __name__ == "__main__":
         print(f"Epoch {epoch+1}: {[p[0] for p in plan]}")
 
     print(f"\nTotal Expected Reward: {total_reward}")
-
-
-# In[ ]:
-
-
-
-
