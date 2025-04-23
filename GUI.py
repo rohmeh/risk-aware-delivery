@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
 import tkinter as tk
 from tkinter import ttk
 import matplotlib.pyplot as plt
@@ -189,16 +183,3 @@ run_button = ttk.Button(root, text="Run Simulation", command=visualize_results)
 run_button.pack(pady=10)
 
 root.mainloop()
-
-
-# In[6]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
