@@ -34,6 +34,9 @@ This repository contains implementations for solving the **Risk-Aware Single-Age
    python GUI.py
    ```
 
+![AO-Project](https://github.com/user-attachments/assets/37964266-b46d-4884-a764-2db6d1b35919)
+
+
 ## Key Algorithms:
 
 Finite Horizon:
